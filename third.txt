@@ -1,0 +1,2 @@
+Struts follow MVC FrameWork
+Web.xml--->View<--->Web.xml[Controller(ActionServlet)]<--->Struts-config.xml<---> Action & ActionForm

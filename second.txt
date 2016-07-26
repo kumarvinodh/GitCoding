@@ -1,0 +1,2 @@
+Spring follow MVC FrameWork
+MVC means Model View Controller
