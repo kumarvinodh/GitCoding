@@ -1,2 +1,5 @@
 Spring follow MVC FrameWork
 MVC means Model View Controller
+
+Why Spring
+Ans: avoids tight coupling between classes
