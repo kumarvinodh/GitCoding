@@ -1,2 +1,6 @@
 Hello Good Morning...
 Git is Decentralized or Distributed  version Control System -- DVCS
+
+VCS - Centralized and Decentralized
+
+In DVCS, server is only for publish operation
