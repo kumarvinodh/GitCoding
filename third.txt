@@ -1,2 +1,3 @@
 Struts follow MVC FrameWork
+Flow below
 Web.xml--->View<--->Web.xml[Controller(ActionServlet)]<--->Struts-config.xml<---> Action & ActionForm
